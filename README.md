@@ -1,4 +1,5 @@
-# switchdevs GitHub
-Hello! This organization is only for the UNDERTALE prequel fangame UNDERTALE Switched. 
+utswitched/.github is a special repository.
 
-This is where our website repository is hosted.
+The profile/README.md will appear on the organization's profile.
+
+meow
